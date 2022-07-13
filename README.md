@@ -1,2 +1,2 @@
 # startup-of-the-year
-For course Zero to Mastery web developer
+https://jamoberg.github.io/startup-of-the-year/
